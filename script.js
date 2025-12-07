@@ -1,5 +1,5 @@
 // ★★★ 修正後：必ず 'https' で始まるようにする ★★★
-const GAS_URL = 'https://script.google.com/a/macros/toho-next.com/s/AKfycbyKpw8OmyCVimgD4msNdhNxzhOfNWYZBDNyoQ1rDgGOdcqzdYU92iuy6Tir3zFKfeAorQ/exec';
+const GAS_URL = 'https://script.google.com/macros/s/AKfycbysdlErFOLwRMBo9-UFmUVC5_072xQ6NlPBnj1VCWi9dixk6PLIA-Z_sfIKWy1xr9yG/exec';
 
 document.addEventListener('DOMContentLoaded', () => {
     // ページ読み込み時に日報一覧を取得・表示
